@@ -1,0 +1,29 @@
+.preview-container{
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+    width: 100%;
+    /* height: 100%; */
+}
+
+.header-row{
+    background-color: #3EB489;
+    max-height: 50px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px #abb8c3;
+    width: 100%;
+    margin: 10px;
+    /* height: 40px; */
+    /* text-align: center; */
+}
+
+embed:focus {
+    outline: none;
+}
+
+.preview-frame{
+    border: none;
+    width: 100%;
+    height: 95%;
+
+}
